@@ -1,0 +1,741 @@
+ADGM Corporate Agent - Analysis Report
+=========================================
+
+Original File: Private Company Limited by Guarantee Non-Financial Services 20231228.pdf
+
+--- JSON Summary ---
+{
+  "process": "Company Incorporation",
+  "document_identified": "Company Set-up Checklist",
+  "documents_uploaded": 1,
+  "required_documents": 7,
+  "missing_documents": [
+    "Articles of Association",
+    "Memorandum of Association",
+    "Board Resolution",
+    "Shareholder Resolution",
+    "Incorporation Application Form",
+    "UBO Declaration Form",
+    "Register of Members and Directors"
+  ],
+  "issues_found": [
+    {
+      "document": "Private Company Limited by Guarantee Non-Financial Services 20231228.pdf",
+      "section": "Human resources and physical presence in ADGM",
+      "issue": "Typographical error in the description of office rental. The text reads 'Please indicate if the applicant intends to rent service office int eh business center or not.'",
+      "severity": "Low",
+      "suggestion": "Correct 'int eh' to 'in the' to ensure grammatical accuracy and professional presentation. The corrected sentence should read: 'Please indicate if the applicant intends to rent service office in the business center or not.'"
+    }
+  ]
+}
+
+--- Detailed Comments ---
+
+1. Issue in Section: Human resources and physical presence in ADGM
+   - Issue: Typographical error in the description of office rental. The text reads 'Please indicate if the applicant intends to rent service office int eh business center or not.'
+   - Severity: Low
+   - Suggestion: Correct 'int eh' to 'in the' to ensure grammatical accuracy and professional presentation. The corrected sentence should read: 'Please indicate if the applicant intends to rent service office in the business center or not.'
+
+
+--- Original Document Text ---
+ 
+ 
+ 
+ 
+ 
+Registration Authority 
+Checklist – Company Set-up   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+STAGE ONE – NON-FINANCIAL  
+PRIVATE COMPANY LIMITED BY GUARANTEE – NON-FINANCIAL 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+ 
+Requirements 
+Useful Links 
+ Choose business activities. 
+ 
+- 
+Refer: List of permitted activities available in ADGM website 
+List of Permitted Activities - 
+Non-Financial  
+ 
+ Contact Markets and Business Development Team or CR&M 
+ Contact Details - Business 
+Development Team 
+ Choose the type of legal entity. 
+Refer: List of Legal entities available in ADGM website 
+List of Legal Entities 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+ Prepare a business plan.  
+Suggested information to be included in the business plan 
+The business plan is fundamental to the application process, and will 
+be used by the ADGM Registration Authority (ADGM RA) to form 
+decisions about the applicant, and applicant’s readiness, willingness, 
+and ability to meet conditions of license (if applicable) to conduct 
+business activities from and within Abu Dhabi Global Market 
+(ADGM). 
+Please provide the following details in this document: 
+• 
+Provide overview of the applicant, including its or its group’s 
+history, and experience in conducting proposed business 
+activities in the UAE or other jurisdictions, as applicable; 
+• 
+Business activities to be conducted: please select relevant 
+business activities and provide description of how this is 
+intended to be delivered.  In particular, you may consider 
+providing a process flow diagram demonstrating all touch-
+points and stakeholders, including flow of services, and 
+interactions with clients and other counterparties.   
+• 
+Target markets, clientele: please provide overview of the 
+immediate target markets, future target markets, client types, 
+approximate number of clients in year 1, 2, and 3.   
+Ownership structure 
+Provide an ownership structure chart identifying all controllers, direct 
+or indirect and ownership percentage.  The chart must identify 
+ultimate beneficial owners.   
+Organization structure and corporate governance 
+Please provide a full organization chart of the applicant’s proposed 
+key appointments.   
+Human resources and physical presence in ADGM 
+Describe the applicant’s proposed staffing in ADGM and headcount, 
+along with the office size.  Please indicate if the applicant intends to 
+rent service office int eh business center or not.   
+Financial projections 
+The financial resources of the applicant are an important component 
+of the assessment of the business plan.  Please set out the initial 
+capital injection and the estimated annual expenses.   
+www.registration.adgm.com  
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+Set out assumptions underpinning the financial projection. 
+Projections should be adequate and align with expected business 
+set up, expected client numbers and fees, projected operational 
+costs should be realistic and supported by numbers for such items 
+as headcount, rent, utilities, professional advisors. 
+1. STAGE TWO – INCORPORATION OF COMPANY – STANDARD REQUIREMENTS  
+ 
+Standard Requirements 
+Useful Links 
+ 
+Choose a company name. 
+- 
+Search if the company name is still available 
+- 
+Refer: Business and Company Name Rules 
+- 
+Similar name declaration may be required if the applicants 
+are using a proposed name that is similar to others 
+ 
+www.registration.adgm.com 
+Business and Company Name 
+Rules 
+ 
+Choose a tradename (this is not mandatory and mainly applicable 
+for retail applications). 
+- 
+Not mandatory 
+- 
+This is different from the company name (i.e. does not need 
+to include the suffix) 
+- 
+Name used to trade, appear on the signage 
+- 
+Search if the trade name is still available 
+- 
+Refer: Business and Company Name Rules 
+- 
+Authorisation from the trade name owner/holder of IP right 
+of well-known brand will be required in the form of franchise 
+agreement, authorization letter etc. 
+www.registration.adgm.com 
+Business and Company Name 
+Rules 
+ 
+Select the accounting reference date/end of the fiscal year. 
+(standard: 31 December) 
+ 
+ 
+Draft articles of association 
+- 
+Template is available on the ADGM website but this can be 
+amended or bespoke articles uploaded, provided the 
+applicant can confirm that these are compliant with the 
+ADGM Companies Regulations and subordinate legislation 
+- 
+If signed version is to be used, evidence of signing 
+authority 
+Model Articles 
+ 
+Registered Office Address 
+- 
+Mandatory and must be located in Al Maryah Island 
+- 
+Contact landlord (Mubadala, Regus, Bloom, WeWork) 
+Contact Details - Registered 
+Office Address 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+- 
+Signed Lease Agreement with the Landlord (for retail 
+applicants, signed agreement for a retail store) 
+- 
+Lease agreement must be valid for 1 year from 
+commercial license issuance date  
+ 
+Register Lease Agreement 
+- 
+Signed Lease Agreement with the Landlord (see above) 
+- 
+Refer: Guidance on Lease Registration 
+Guidance – Registration of 
+Lease and Sublease 
+ 
+Authorised Signatories 
+- 
+Must be individual 
+- 
+At least one individual 
+- 
+At least one of the appointed signatories must be a UAE 
+national, GCC national or hold a valid UAE residence 
+visa. (Individuals who never entered the UAE cannot be 
+appointed as authorised signatories because security 
+clearance from the immigration authorities cannot be 
+processed).  
+ 
+Individual 
+- 
+Personal Details 
+- 
+Service Address 
+- 
+Passport copies of all current and past nationalities  
+- 
+Emirates ID (applicable to UAE nationals) 
+- 
+Evidence of Appointment  (this is the resolution for 
+incorporation signed by all founding members, which 
+includes the appointment of the authorised signatories – 
+template is available on the ADGM website) 
+ 
+Nominee Arrangement Confirmation Form 
+- 
+Confirm if any of the signatories holds the role on behalf 
+of someone else by filling up this form (if not applicable, 
+choose no but the form must still be submitted) 
+- 
+Form is available on the ADGM website 
+- 
+Upload completed and signed form to the Supporting 
+Documents section of the online application form 
+Resolution Templates 
+Nominee Arrangement 
+Confirmation Form – Role – 
+Company 
+ 
+Directors 
+- 
+At least one director  
+- 
+Can be individual or Body Corporate 
+- 
+If body corporate director is appointed, at least one 
+individual must be appointed 
+ 
+Individual 
+- 
+Personal Details 
+- 
+Service Address 
+- 
+Residential Address 
+- 
+Passport copies of all current and past nationalities  
+Resolution Templates 
+Nominee Arrangement 
+Confirmation Form – Role – 
+Company 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+- 
+Proof of Residential Address (not more than 3 months 
+old, in the English language) 
+- 
+Evidence of Appointment  (this is the resolution signed by 
+all founding members, which includes the appointment of 
+the directors – template is available on the ADGM 
+website) 
+ 
+Body Corporate 
+- 
+Entity Details 
+- 
+Registered Office Address 
+- 
+Certificate of Incorporation/Registration (foreign language 
+documents must be accompanied by certified legal 
+translation to the English language) 
+- 
+Register of members recently (certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Register of directors (recently certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Evidence of Appointment  (this is the resolution signed by 
+all founding members, which includes the appointment of 
+the directors – template is available on the ADGM 
+website) 
+ 
+Nominee Arrangement Confirmation Form 
+- 
+Confirm if any of the directors holds the role on behalf of 
+someone else by filling up this form (if not applicable, 
+choose no but the form must still be submitted) 
+- 
+Form is available on the ADGM website 
+- 
+Upload completed and signed form to the Supporting 
+Documents section of the online application form 
+ 
+Secretary 
+- 
+This is not mandatory 
+- 
+Can be individual or Body Corporate 
+ 
+Individual 
+- 
+Personal Details 
+- 
+Service Address 
+- 
+Passport copies of all current and past nationalities  
+- 
+Proof of Residential Address (not more than 3 months 
+old, in the English language) 
+- 
+Evidence of Appointment  (this is the resolution signed by 
+all founding members, foreign language documents must 
+be accompanied by certified legal translation to the 
+English language) 
+Resolution Templates 
+Nominee Arrangement 
+Confirmation Form – Role – 
+Company 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+ 
+Body Corporate 
+- 
+Entity Details 
+- 
+Registered Office Address 
+- 
+Certificate of Incorporation/Registration (foreign language 
+documents must be accompanied by certified legal 
+translation to the English language) 
+- 
+Register of members recently (certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Register of directors (recently certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Evidence of Appointment  (this is the resolution signed by 
+all founding members, which includes the appointment of 
+the directors – template is available on the ADGM 
+website) 
+ 
+Nominee Arrangement Confirmation Form 
+- 
+Confirm if any of the secretaries holds the role on behalf 
+of someone else by filling up this form (if not applicable, 
+choose no but the form must still be submitted) 
+- 
+Form is available on the ADGM website 
+- 
+Upload completed and signed form to the Supporting 
+Documents section of the online application form 
+ 
+Founding members 
+- 
+Can be individual or Body Corporate 
+ 
+Individual 
+- 
+Personal Details 
+- 
+Service Address 
+- 
+Passport copies of all current and past nationalities  
+- 
+Proof of Residential Address 
+- 
+Resolution authorizing Incorporation/Registration of 
+ADGM Entity and Evidence of Appointment (this is the 
+resolution signed jointly by all individual founding 
+members – template is available on the ADGM website) 
+ 
+Body Corporate 
+- 
+Entity Details 
+- 
+Registered Office Address 
+- 
+Certificate of Incorporation/Registration (foreign language 
+documents must be accompanied by certified legal 
+translation to the English language) 
+Resolution Templates 
+Nominee Arrangement 
+Confirmation Form 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+- 
+Register of members recently (certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Register of directors (recently certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Evidence of Appointment  (separate board resolution 
+required for each body corporate founding member, which 
+includes the appointment of the directors – template is 
+available on the ADGM website) 
+ 
+Nominee Arrangement Confirmation Form 
+- 
+Confirm if any of the founding members holds the role on 
+behalf of someone else by filling up this form (if not 
+applicable, choose no but the form must still be 
+submitted) 
+- 
+Form is available on the ADGM website 
+- 
+Upload completed and signed form to the Supporting 
+Documents section of the online application form 
+ 
+Ultimate Beneficial Owners 
+- 
+Applicable if an individual or body corporate owns 25% or 
+more of the company 
+- 
+Can be individual or Body Corporate 
+- 
+Document of Beneficial Ownership Distribution (this can 
+be the company or ownership group chart or founding 
+members’ register of owners/shareholders, as applicable) 
+ 
+Individual 
+- 
+Personal Details 
+- 
+Service Address 
+- 
+Passport copies of all current and past nationalities  
+ 
+Body Corporate 
+- 
+Entity Details 
+- 
+Registered Office Address 
+- 
+Certificate of Incorporation/Registration (foreign language 
+documents must be accompanied by certified legal 
+translation to the English language) 
+- 
+Register of members recently (certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+- 
+Register of directors (recently certified as a true copy by 
+one of the incumbent directors or company secretary, or 
+Guidance – Beneficial 
+Ownership and Control 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+registered agent, not more than three months ago, foreign 
+language documents must be accompanied by certified 
+legal translation to the English language) 
+ 
+Nominee Arrangement Confirmation Form 
+- 
+Confirm if any of the Ultimate Beneficial Owners holds the 
+role on behalf of someone else by filling up this form (if 
+not applicable, choose no but the form must still be 
+submitted) 
+- 
+Form is available on the ADGM website 
+- 
+Upload completed and signed form to the Supporting 
+Documents section of the online application form 
+ 
+Anti-Money Laundering Manual and Money Laundering 
+Reporting Officer (MLRO) 
+- 
+Applicable only if the company will conduct any of the 
+following activities: 
+ 
+• 
+Real estate developer or agency transacting in the 
+buying/selling of real property 
+• 
+Dealer in precious metals or precious stones 
+• 
+Dealer in any saleable item of a price greater than 
+or equal to US$15,000 
+• 
+Law Firm 
+• 
+Notary Firm 
+• 
+Other Independent Legal business 
+• 
+Accounting Firm 
+• 
+Audit or insolvency Firm 
+• 
+Company Service Provider 
+ 
+- 
+Must appoint one MLRO 
+- 
+MLRO must hold a valid UAE residence visa 
+ 
+MLRO 
+- 
+Personal Details 
+- 
+Role, Experience and Qualifications details (must be 
+related to AML function) 
+- 
+Service Address and contact details 
+- 
+Passport copy 
+- 
+UAE residence visa copy 
+- 
+CV 
+- 
+Proof of Qualifications/Certifications 
+ 
+AML Manual 
+- 
+Refer ADGM AML and Sanction Rules and Guidance 
+- 
+Refer Guidance – AML Manual 
+ 
+Anti-Money Laundering and 
+Sanctions Rules and 
+Guidance 
+ 
+Guidance - AML Manual 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+ 
+Data Protection and Data Protection Contact Person  
+- 
+Must provide details of the contact person 
+- 
+Complete all applicable questions 
+- 
+Refer: Data Protection Guidance Note 
+ 
+DP Contact Person 
+- 
+Personal Details 
+- 
+Service Address and contact details 
+Guidance - Data Protection 
+ 
+Economic Substance Form 
+- 
+Confirm whether or not the company intends to conduct 
+one or more Relevant Activities under Economic 
+Substance Regime 
+- 
+Refer to Guidance on Relevant Activities.  
+- 
+Form is available in ADGM website 
+- 
+Upload completed and signed form in the Supporting 
+Document section 
+Guidance - Relevant Activities 
+Economic Substance Form 
+ 
+ 
+Source of wealth Declaration Form 
+- 
+With relevant supporting documents may be requested by 
+the ADGM RA depending on the risk rating attributed to 
+the application form 
+Sources of Wealth 
+Declaration Form 
+ 
+REGISTRATION OF COMPANY – INITIAL REGISTRATION FEES – NON-FINANCIAL 
+LTD 
+ 
+ 
+Description 
+Amount 
+ 
+Application for reserving a name  
+USD 200 
+ 
+Application for incorporation of a company 
+USD 1,500 
+ 
+Issuance of commercial license 
+USD 4,000 
+ 
+Business Activity Fee 
+USD 4,000 
+ 
+Data Protection 
+USD 300 
+ 
+Total  
+USD 10,000 
+ 
+Please note that the above fees are excluding the following: 
+- 
+Office Rent 
+ 
+
+ 
+ 
+Checklist – Company Set-up 
+ 
+ 
+- 
+Lease registration fees amounting to USD 100 per lease 
+year subject to the ADGM RA’s review of the lease 
+- 
+Fees for establishment card and UAE residence visas 
+For further information, please access the ADGM RA Schedule of 
+Fees 
+ 
+ANNUAL RENEWAL FEES - NON-FINANCIAL LTD 
+ 
+Description 
+Amount 
+ 
+Renewal of Commercial License   
+USD 4,000 
+ 
+Renewal of business activities  
+USD 4,000 
+ 
+Data Protection Annual Renewal  
+USD 300   
+ 
+Annual Confirmation Statement  
+USD 100 
+ 
+Annual Accounts Filing   
+- 
+ 
+Total  
+USD 8,400 
+ 
+Please note that the above fees are excluding the following: 
+- 
+Office Rent 
+- 
+Lease registration fees amounting to USD 100 per lease 
+year subject to the ADGM RA’s review of the lease 
+- 
+Fees for establishment card and UAE residence visas 
+For further information, please access the ADGM RA Schedule of 
+Fees 
+ 
+ 
+ 
+ 
+ 
